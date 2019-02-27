@@ -1,0 +1,4 @@
+<project name="build" default="startBuild" basedir=".">
+ <target name="startBuild">
+ </target>
+</project>
